@@ -1,15 +1,15 @@
 ```json
 {
-    "name": "pr0x1es",
-    "username": "@pr0x1es",
-    "IDE": "Visual studio code",
-    "languages": [
+    "Name": "pr0x1es",
+    "Username": "@pr0x1es",
+    "IDE": "Visual Studio Code",
+    "Languages": [
         "TypeScript",
         "JavaScript",
         "HTML",
         "CSS"
     ],
-    "learning": [
+    "Learning": [
         "Python"
     ]
 }
