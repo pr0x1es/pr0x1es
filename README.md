@@ -1,25 +1,34 @@
-  
-    
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
     <div>
-    
+
         <p>
         Hello, my name is: pr0x1es
         </p>
-        </div>
-        
-        <div>
-            <p>
-            My IDE is Visual Studio Code
-            </p>
+
         </div>
 
         <div>
+
+            <p>
+            My IDE is Visual Studio Code
+            </p>
+
+        </div>
+
+        <div>
+
             <p>
             Langangues i'm 
             Learning:
 
             Python
             </p>
+
         </div>
 
         <div>
@@ -49,6 +58,7 @@
                     Javascript
                 </li>
             </ul>
-            
+
         </div>
-        </>
+</body>
+</html>
