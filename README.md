@@ -6,7 +6,7 @@
     "Languages": [
         "TypeScript",
         "JavaScript",
-        "HTML",
+        "HTML5",
         "CSS"
     ],
     "Learning": [
